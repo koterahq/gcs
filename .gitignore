@@ -1,0 +1,9 @@
+# Project place file
+/GCS.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+.DS_Store
+Packages

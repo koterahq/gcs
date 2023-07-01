@@ -1,0 +1,14 @@
+{
+  "name": "GCS",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "Packages",
+        "GCS": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
